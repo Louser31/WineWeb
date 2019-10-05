@@ -15,4 +15,4 @@ The Wine Shop is E-Wine shop. You can order or even sell your own self made wine
 <img src="sample/5.png"> </img><br><br>
 
 
-<h3> Show Your <img src="sample/give.png" height="10%" width="10%"> </img> by giving <img src="sample/star.png"></img> to Repository. </h3>
+<h3> Show Your <img src="sample/give.png" height="5%" width="5%"> </img> by giving <img src="sample/star.png"></img> to Repository. </h3>
