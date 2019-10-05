@@ -8,10 +8,11 @@ The Wine Shop is E-Wine shop. You can order or even sell your own self made wine
 <br>
 
 <img src="sample/1.png"> </img><br>
-<img src="sample/2.png"> </img><br>
-<img src="sample/3.png"> </img><br>
-<img src="sample/4.png"> </img><br>
-<img src="sample/5.png"> </img><br>
+<br>
+<img src="sample/2.png"> </img><br><br>
+<img src="sample/3.png"> </img><br><br>
+<img src="sample/4.png"> </img><br><br>
+<img src="sample/5.png"> </img><br><br>
 
 
-<h1> Show Your Love by giving Star to Repository. </h1>
+<h3> Show Your Love by giving Star to Repository. </h3>
